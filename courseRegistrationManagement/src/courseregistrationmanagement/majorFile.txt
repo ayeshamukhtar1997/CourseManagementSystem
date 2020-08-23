@@ -1,0 +1,9 @@
+MajorID , MajorName           ,       MajorDescription
+03      / Software Engineering      / A program that prepares individuals to apply scientific and mathematical principles to the design, analysis, verification, validation, implementation, and maintenance of computer software systems using a variety of computer languages.
+04       /Environmental Engineering/  In Environmental Engineering, students learn to solve complex environmental problems through the integration of the physical, chemical, and biological sciences with tools in mathematics, planning, analysis, and design.
+05/       Electrical Engineering     /Electrical engineering involves working with all manners of electronic devices, from pocket calculators to supercomputers
+06 /      Computer Science          / Computer science majors are strong logical thinkers and problem solvers who use computers and computational processes to build websites, mine data and more
+07  /     Chemical Engineering     /  A program that prepares individuals to apply mathematical and scientific principles to the design, development and operational evaluation of systems employing chemical processes, such as chemical reactors, kinetic systems, electrochemical systems, energy conservation processes, heat and mass transfer systems
+08   /    Material Engineering    /   As a materials engineering major, you'll use math and science to study ceramics, metals, polymers (such as glass, rubber, and plastic), and other materials.
+09    /   Civil Engineering      /    Civil engineers design and supervise the construction of infrastructure such as roads, buildings, tunnels, airports, dams, bridges, and water supply and sewage systems. 
+2   /dxfcgvhbjnkm  /  gcfhbjjnkm,

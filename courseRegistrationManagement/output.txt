@@ -1,0 +1,5 @@
+regID StudentID TID
+01    abc       qwe
+02    asd       dfg
+03    ads       ewr
+01    fse       fwf

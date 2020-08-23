@@ -1,0 +1,10 @@
+StudentID, CivilID, firstName, lastName ,birthDate,   registrationDate, MajorID
+111   /     1    /   harry   /  larry  /  08-09-1999 / 09-02-2005   /    01
+333   /     3    /   david   /  brown  /  01-12-2001 / 07-08-2001   /    03
+444   /     4    /   john    /  white  /  02-12-2002 / 07-08-2001   /    4
+555   /     5    /   gold    /  smith  /  03-02-2003 / 07-08-2001   /    5
+666   /     6    /   black   /  brown  /  09-09-2015 / 07-08-2001   /    6
+777   /     7    /   mate    /  peter  /  07-06-2005 / 07-04-2001   /    7
+888   /     8    /   hissie  /  red    /  03-04-2005 / 07-08-2001   /    8
+999   /     9    /   penny   /  sein   /  04-04-2006 / 07-08-2001   /    9
+222 /  123 /  sadsada /  asdasd /  asdasd /  23-09-1980 /   111111

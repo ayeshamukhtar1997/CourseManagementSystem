@@ -1,0 +1,11 @@
+semesterID, SemesterName, semesterDesc
+01     /      first        /      first Semester
+02     /      second       /      second Semester
+03     /      third        /      third Semester
+04     /      fourth       /      fourth Semester
+05     /      fifth        /      fifth Semester
+06     /      sixth        /      sixth Semester
+07     /      seventh      /      seventh Semester
+08     /      eight        /      eighth Semester
+09     /      ninth        /      ninth Semester
+12 /   nimra  /    nimra

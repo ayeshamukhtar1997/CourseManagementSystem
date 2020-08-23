@@ -1,0 +1,11 @@
+TID InstructorID CourseID SemesterID classCode
+01  02           01       01         BESE7
+02  04           02       02         BEE10
+03  07           03       03         BSCS9
+04  08           04       04         BESE8
+05  10           05       05         BESE10
+06  01           06       06         BSCS10
+07  03           07       07         BEE11
+08  05           08       08         BEE8
+09  06           09       03         BESE8
+10  09           10       07         BESE7 

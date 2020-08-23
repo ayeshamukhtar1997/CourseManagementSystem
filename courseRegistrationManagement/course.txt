@@ -1,0 +1,27 @@
+courseID,courseName                            ,courseDescription                                                                                                                                                                                                                                                                                                                  courseCode
+01       Object Oriented Programming           This course teaches object oriented programming to those who have learn basic program- ming concepts and are ready to learn in-depth programming. The main concepts discussed are: Objects, Data Abstraction, Data Encapsulation, Polymorphism, and Inheritance.                                                                  CS– 212
+02       Linear Algebra                        Linear algebra is the study of linear systems of equations, vector spaces, and linear transformations. ... The student will become competent in solving linear equations, performing matrix algebra, calculating determinants, and finding eigenvalues and eigenvectors.                                                           MATH–121
+03       Electrical Network Analysis           Student will learn power transmission in single and three phase system, their power measurement methods and power factor correction for efficient transmission of power. Students will be given the concept to formulate equations and choose among the different methods to analyze an electrical network.                        EE–211
+04       Engineering Mechanics                 This course is an introduction to learning and applying the principles required to solve engineering mechanics problems. ... The course addresses the modeling and analysis of static equilibrium problems with an emphasis on real world engineering applications and problem solving.                                            ME–100
+05       Fundamentals of Computer Programming  This is an entry level programming course designed to teach students the basics of program design, coding and testing. The purpose of the course is to create hierarchy charts, flow charts, pseudo code and create test tables in the process of program design.                                                                  CS-110    
+06       Software Engineering                  Software engineering is a discipline that allows us to apply engineering and computer science concepts in the development and maintenance of reliable, usable, and dependable software. ... The course is designed to present software engineering concepts and principles in parallel with the software development life cycle.   SE-200        
+07       Computer Networks                     The course objectives include learning about computer network organization and implementation, obtaining a theoretical understanding of data communication and computer networks, and gaining practical experience in installation, monitoring, and troubleshooting of current LAN systems.                                        EE-353 
+08       Data Structures & Algorithms          The course focuses on basic and essential topics in data structures, including array-based lists, linked lists, skiplists, hash tables, recursion, binary trees, scapegoat trees, red–black trees, heaps, sorting algorithms, graphs, and binary tree.                                                                             CS-250
+09       Software Project Management           This course introduces software engineers aspiring to become technical team leaders or software project managers to the responsibilities of these roles.                                                                                                                                                                           SE-430
+10       Entrepreneurship                      Entrepreneurship is an interdisciplinary course designed to teach students how to think and act entrepreneurial. Students learn how to start-up and operate a business while in school, thus turning their learning into earning.                                                                                                  MGT-2714  /  fgdfg  / null / 2
+11  /  ksjbhdkjfgndf  / null / 11
+11  /  ksjbhdkjfgndf  / null / 11
+11  /  ksjbhdkjfgndf  / null / 11
+11  /  ksjbhdkjfgndf  / null / 11
+11  /  ksjbhdkjfgndf  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+11  /  11  / null / 11
+1  /  Ayesga  / bbdbfksjnfm / 2
+6  /  sdgvhbmnsmd  / hGCVFHEDBJS,AM, / 4

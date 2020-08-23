@@ -1,0 +1,13 @@
+InstructorID ,firstName, lastName ,BirthDate ,  CivilID
+01    /       Jensen  /  Ackles  / 08\09\1999  /01
+02    /       David   /  Johnson / 08\09\1999 / 02
+03    /       Jared   /  Gilmore / 08\09\1999 / 03
+04    /       Jennifer / Goodwin / 08\09\1999 / 04
+05    /       Tom     /  Hardy    /08\09\1999 / 05
+06    /       Matt   /   Damon   / 08\09\1999 / 06
+07    /       Stephan /  Amell   / 08\09\1999 / 07
+08    /       Barry  /   Allen   / 08\09\1999 / 08
+09    /       Iris   /   West   /  08\09\1999 / 09
+10    /       Mason  /   Collins / 08\09\1999 / 10 
+
+
